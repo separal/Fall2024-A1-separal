@@ -1,0 +1,51 @@
+﻿/* Global styles */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+/* Specific styles for your movie/TV series page */
+body {
+    background-color: #000; /* Black background */
+    color: #ff0000; /* Red text color */
+    font-family: cursive; /* Use a gothic font (replace 'Gothic' with the actual font name) */
+}
+
+/* Additional styles for your movie/TV series page */
+/* Add any specific styles related to your movie here */
+/* Specific styles for your movie/TV series page */
+#CoverArt {
+    border-radius: 50%; /* Make the image circular */
+    max-width: 500px;
+}
+/* Specific styles for your movie/TV series page */
+.container {
+    max-width: 600px; /* Adjust the width as needed */
+    margin: 0 auto; /* Center horizontally */
+    text-align: center; /* Center the content inside the container */
+}
+
+#Trailer {
+    display: block; /* Ensure the iframe is a block-level element */
+    margin: 0 auto; /* Center horizontally */
+    max-width: 500px; /* Ensure the video doesn't exceed its container width */
+    margin-left: 200px; /* Set your desired x value (adjust as needed) */
+}
+
+/* Specific styles for your movie/TV series page */
+a {
+    color: white; /* Set the link color to white */
+}

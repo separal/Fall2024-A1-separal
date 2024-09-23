@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fall2024-Assignment1-separal", "Fall2024-Assignment1-separal\Fall2024-Assignment1-separal.csproj", "{D87EE242-6BEC-443A-B37C-D264C9769DA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fall2024-Assignment1-separal", "Fall2024-Assignment1-separal\Fall2024-Assignment1-separal.csproj", "{3F4253C3-8BB2-41C9-A6B7-9CAC26563368}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D87EE242-6BEC-443A-B37C-D264C9769DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D87EE242-6BEC-443A-B37C-D264C9769DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D87EE242-6BEC-443A-B37C-D264C9769DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D87EE242-6BEC-443A-B37C-D264C9769DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4253C3-8BB2-41C9-A6B7-9CAC26563368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4253C3-8BB2-41C9-A6B7-9CAC26563368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4253C3-8BB2-41C9-A6B7-9CAC26563368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4253C3-8BB2-41C9-A6B7-9CAC26563368}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1530EE57-86A5-4F56-B822-E8F3921B9A22}
+		SolutionGuid = {398CE1FB-7273-413E-8683-51518CE5B1B5}
 	EndGlobalSection
 EndGlobal

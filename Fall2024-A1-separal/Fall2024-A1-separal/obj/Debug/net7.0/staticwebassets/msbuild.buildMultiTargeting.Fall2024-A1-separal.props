@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Fall2024-A1-separal.props" />
+</Project>
