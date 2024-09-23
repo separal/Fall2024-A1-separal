@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D87EE242-6BEC-443A-B37C-D264C9769DA2}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fall2024-Assignment1-separal/wwwroot/css/site.css">
+    <Files>
+      <File FileName="Fall2024-Assignment1-separal/wwwroot/css/site.css" Line="20" Column="1" />
+      <File FileName="Fall2024-Assignment1-separal/wwwroot/index.html" Line="16" Column="32" />
+      <File FileName="Fall2024-Assignment1-separal/wwwroot/js/site.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fall2024-Assignment1-separal" expanded="True">
+            <Node name="Fall2024-Assignment1-separal">
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot">
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Fall2024-Assignment1-separal PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
